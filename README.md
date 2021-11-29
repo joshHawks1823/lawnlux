@@ -1,0 +1,2 @@
+# lawnlux
+Static landscaping page. 
